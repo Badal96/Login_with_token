@@ -1,0 +1,17 @@
+{
+    "dart.flutterSdkPath": "~/fvm/versions/3.16.4",
+    "dart.lineLength": 100,
+    // Automatically format code on save and during typing of certain characters
+    // (like `;` and `}`).
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+        "source.fixAll": "always",
+        "source.organizeImports": "always"
+    },
+    "editor.rulers": [
+        120
+    ],
+    "cSpell.words": [
+        "stylrr"
+    ],
+}
